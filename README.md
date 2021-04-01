@@ -19,11 +19,11 @@ If you would like to use this, you would have to clone it.
 ## Usage Information
 To use it, you will need to cd into the same directory as the index.js in your terminal of choice. You would usethis to expedite the process of creating a README file for any of your projects.
 ## Test Instructions
-If you would like to contribute to this project, you are able to do so by forking it into your own repository.
-## Contribution Guidelines
 to test this project, make sure you have it on your local device and be in the same directory as the index, thenrunning the command 'node.index'.
+## Contribution Guidelines
+If you would like to contribute to this project, you are able to do so by forking it into your own repository.
 ## Licenses
 MIT
 ## Contact Me
-You can contact me at denis.salvino23@hotmail.com<br>
+<br>You can contact me at denis.salvino23@gmail.com<br>
 <https://github.com/dsalvino>
