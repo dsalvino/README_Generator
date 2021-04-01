@@ -102,4 +102,4 @@ The source code, documentation, roadmap, issue tracker, testing, benchmarks are 
 
 Typically, Nuxeo users build different types of information management solutions for [document management](https://www.nuxeo.com/solutions/document-management/), [case management](https://www.nuxeo.com/solutions/case-management/), and [digital asset management](https://www.nuxeo.com/solutions/dam-digital-asset-management/), use cases. It uses schema-flexible metadata & content models that allows content to be repurposed to fulfill future use cases.
 
-More information is available at [www.nuxeo.com](https://www.nuxeo.com).
+More information is available at [www.nuxeo.com](https://www.nuxeo.com).'MIT', 'GPLv2', 'Apache'
