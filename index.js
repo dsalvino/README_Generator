@@ -51,7 +51,7 @@ var questions = [
     }
 ]
 
-function renderLicenseBadge(license) { 
+const renderLicenseBadge = (license) => {
     switch (license) {
         case 'MIT':
             return ('[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)');
@@ -64,12 +64,11 @@ function renderLicenseBadge(license) {
     }
 };
 
-
 const generateREADME = (data) =>
     ` 
     # ${data.title}
     ## About
-    ${renderLicenseBadge(license)}
+    ${renderLicenseBadge.license}
     ${data.description}
     
     
@@ -91,7 +90,7 @@ const generateREADME = (data) =>
     ## Contribution Guidelines
     ${data.contribution}
     ## Licenses
-    ${data.license}
+    ${data.licenses}
     ## Contact Me
     ${data.email}
     github.com/${data.github};
