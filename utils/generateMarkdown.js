@@ -15,6 +15,7 @@ const generateREADME = (data) =>
 ` 
 # ${data.title}
 ## About
+${renderLicenseBadge(data.licenses[0])}<br>
 ${data.description}
 
 
@@ -38,7 +39,7 @@ ${data.contribution}
 ## Licenses
 ${data.licenses}
 ## Contact Me
-${data.email}
-github.com/${data.github};`
+<br>${data.email}<br>
+github.com/${data.github}`
 
     module.exports = generateREADME;
