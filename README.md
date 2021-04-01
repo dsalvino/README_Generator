@@ -25,5 +25,5 @@ to test this project, make sure you have it on your local device and be in the s
 ## Licenses
 MIT
 ## Contact Me
-<br>You can contact me at denis.salvino23@hotmail.com<br>
-github.com/dsalvino
+You can contact me at denis.salvino23@hotmail.com<br>
+<github.com/dsalvino>
