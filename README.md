@@ -26,4 +26,4 @@ to test this project, make sure you have it on your local device and be in the s
 MIT
 ## Contact Me
 You can contact me at denis.salvino23@hotmail.com<br>
-<github.com/dsalvino>
+<https://github.com/dsalvino>
