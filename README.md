@@ -25,5 +25,5 @@ If you would like to contribute to this project, you are able to do so by forkin
 ## Licenses
 MIT
 ## Contact Me
-<br>You can contact me at denis.salvino23@gmail.com<br>
+You can contact me at denis.salvino23@gmail.com<br>
 <https://github.com/dsalvino>
