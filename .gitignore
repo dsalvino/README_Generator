@@ -1,1 +1,6 @@
+#ignores node_modules for pc
 node_modules
+#ignores mac files
+.DS_Store/
+
+README.md
