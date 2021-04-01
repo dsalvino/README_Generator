@@ -1,7 +1,7 @@
  
 # README Generator
 ## About
-[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)<br>
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)<br>
 This project was created in order to make it easier to mockup a README for a github repository. It was createdentirely out of javascript in the backend and will spit out a completely generated markdown file for the user. This README you are reading right now is made by the generator.
 
 

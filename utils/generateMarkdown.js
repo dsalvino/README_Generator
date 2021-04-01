@@ -15,7 +15,7 @@ const generateREADME = (data) =>
 ` 
 # ${data.title}
 ## About
-${renderLicenseBadge(data.licenses[0])}<br>
+${renderLicenseBadge(data.licenses)}<br>
 ${data.description}
 
 
