@@ -12,36 +12,33 @@ function renderLicenseBadge (licenses) {
 };
 
 const generateREADME = (data) =>
-    ` 
-    # ${data.title}
-    ## About
-    ${renderLicenseBadge(data.licenses)}
-    ${data.description}
-    
-    
-    ### Table of Contents
-    **[About](#about)**<br>
-    **[Installation Instructions](#installation-instructions)**<br>
-    **[Usage Information](#usage-information)**<br>
-    **[Test Instructions](#test-instructions)**<br>
-    **[Contribution Guidelines](#contribution-guidelines)**<br>
-    **[Licenses](#licenses)**<br>
-    **[Contact Me](#contact-me)**<br>
-    
-    ## Installation Instructions
-    ${data.installation}
-    ## Usage Information
-    ${data.usage}
-    ## Test Instructions
-    ${data.testing}
-    ## Contribution Guidelines
-    ${data.contribution}
-    ## Licenses
-    ${data.licenses}
-    ## Contact Me
-    ${data.email}
-    github.com/${data.github};
-    
-    `
+` 
+# ${data.title}
+## About
+${data.description}
+
+
+### Table of Contents
+**[About](#about)**<br>
+**[Installation Instructions](#installation-instructions)**<br>
+**[Usage Information](#usage-information)**<br>
+**[Test Instructions](#test-instructions)**<br>
+**[Contribution Guidelines](#contribution-guidelines)**<br>
+**[Licenses](#licenses)**<br>
+**[Contact Me](#contact-me)**<br>
+
+## Installation Instructions
+${data.installation}
+## Usage Information
+${data.usage}
+## Test Instructions
+${data.testing}
+## Contribution Guidelines
+${data.contribution}
+## Licenses
+${data.licenses}
+## Contact Me
+${data.email}
+github.com/${data.github};`
 
     module.exports = generateREADME;
