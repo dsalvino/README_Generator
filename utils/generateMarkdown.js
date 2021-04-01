@@ -39,7 +39,7 @@ ${data.contribution}
 ## Licenses
 ${data.licenses}
 ## Contact Me
-<br>${data.email}<br>
+${data.email}<br>
 <https://github.com/${data.github}>`
 
     module.exports = generateREADME;
